@@ -1,0 +1,16 @@
+Log:
+  Level: "debug"
+
+Server:
+  Name: "PieFireDire"
+  Port: "8080"
+
+HTTP:
+  TimeOut: 10s
+  MaxIdleConn: 100
+  MaxIdleConnPerHost: 100
+  MaxConnPerHost: 100
+
+
+
+
